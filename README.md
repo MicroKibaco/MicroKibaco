@@ -10,6 +10,7 @@ I'm also developing with Java, Kotlin, ReactNative ...
 
 I'm currently learning c++.
 
+if you want to be my friend , you can find my wechat CrazyCodingBoy
 <!--
 **MicroKibaco/MicroKibaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
