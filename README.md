@@ -10,7 +10,7 @@ I'm also developing with Java, Kotlin, ReactNative ...
 
 I'm currently learning c++.
 
-if you want to be my friend , you can find my wechat [CrazyCodingBoy](https://imgkr2.cn-bj.ufileos.com/e4190ebe-9995-43f4-9cf3-7962dff904f6.png?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&amp;Signature=sTgnKdTQq5Vl3hGqo5Pq9uiGk1Y%253D&amp;Expires=1604714052)
+if you want to be my friend , you can find my wechat [CrazyCodingBoy](http://raw.githubusercontent.com/MicroKibaco/MicroKibaco/main/wechat.jpg)
 <!--
 **MicroKibaco/MicroKibaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
