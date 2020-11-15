@@ -1,27 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/MicroKibaco/MicroKibaco">
+    <img src="https://github-readme-stats.wasabeef.vercel.app/api?username=MicroKibaco&show_icons=true&line_height=21&show_icons=true&theme=vue" />
+  </a>
+</p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MicroKibaco&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<p align="center">
+  <a href="https://github.com/MicroKibaco">
+    <img src="https://img.shields.io/badge/微信公众号-brightness.svg"
+  </a>  
+  <a href="https://juejin.im/user/2752832844861800/posts">
+    <img src="https://komarev.com/ghpvc/?username=MicroKibaco&color=brightgreen" />
+  </a>  
+</p>
 
-I'm MicroKibaco(小木箱), a software engineer.
-
-I'm working on Android over 3 years.
-
-I'm also developing with Java, Kotlin, ReactNative ...
-
-I'm currently learning c++.
-
-if you want to be my friend , you can find my wechat [CrazyCodingBoy](http://raw.githubusercontent.com/MicroKibaco/MicroKibaco/main/wechat.jpg)
-<!--
-**MicroKibaco/MicroKibaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
